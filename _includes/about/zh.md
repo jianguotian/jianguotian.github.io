@@ -12,5 +12,5 @@
 - [HIVE-5867][1]
 - [HIVE-14679][2]
 
-[1]: //https://issues.apache.org/jira/browse/HIVE-5867
-[2]: //https://issues.apache.org/jira/browse/HIVE-14679
+[1]: https://issues.apache.org/jira/browse/HIVE-5867
+[2]: https://issues.apache.org/jira/browse/HIVE-14679
