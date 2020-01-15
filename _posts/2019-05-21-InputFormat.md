@@ -2,9 +2,8 @@
 layout:     post
 title:      Hadoop输入格式
 subtitle:   InputFormat
-date:       2019-05-21
 author:     jianguotian
-header-img: img/post-bg-ios9-web.jpg
+header-style: text
 catalog: true
 tags:
     - 分片

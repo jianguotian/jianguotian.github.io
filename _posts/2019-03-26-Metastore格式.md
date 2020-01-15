@@ -2,9 +2,8 @@
 layout:     post
 title:      Metastore格式
 subtitle:   格式和分隔符
-date:       2019-02-26
 author:     jianguotian
-header-img: img/post-bg-ios9-web.jpg
+header-style: text
 catalog: true
 tags:
     - 原创

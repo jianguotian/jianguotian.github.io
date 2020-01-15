@@ -2,9 +2,8 @@
 layout:     post
 title:      Spark SQL与Metastore交互
 subtitle:   源码逻辑解析
-date:       2019-02-27
 author:     jianguotian
-header-img: img/post-bg-ios9-web.jpg
+header-style: text
 catalog: true
 tags:
     - Spark SQL

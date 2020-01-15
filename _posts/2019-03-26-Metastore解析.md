@@ -2,9 +2,8 @@
 layout:     post
 title:      Metastore解析
 subtitle:   Thrift服务端解析
-date:       2019-02-26
 author:     jianguotian
-header-img: img/post-bg-ios9-web.jpg
+header-style: text
 catalog: true
 tags:
     - 原创

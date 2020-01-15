@@ -2,9 +2,8 @@
 layout:     post
 title:      HiveInternal
 subtitle:   Hive原理解析
-date:       2019-09-29
 author:     jianguotian
-header-img: img/post-bg-ios9-web.jpg
+header-style: text
 catalog: true
 tags:
     - Hive
