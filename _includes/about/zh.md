@@ -3,8 +3,8 @@
 ##### 技术栈
 
 - Java
-- Hadoop HDFS YARN
-- Spark Hive
+- Hadoop, HDFS, YARN
+- Spark, Hive
 
 
 ##### 开源贡献
